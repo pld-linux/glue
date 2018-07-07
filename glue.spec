@@ -7,7 +7,7 @@ Summary:	A simple command line tool to generate CSS sprites
 Summary(pl.UTF-8):	Proste narzędzie linii poleceń do generowania "duszków" CSS
 Name:		glue
 Version:	0.13
-Release:	1
+Release:	2
 License:	BSD
 Group:		Applications/Graphics
 Source0:	http://files.pythonhosted.org/packages/source/g/glue/%{name}-%{version}.tar.gz
