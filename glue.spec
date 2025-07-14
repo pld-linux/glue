@@ -60,7 +60,7 @@ używania duszka.
 
 %prep
 %setup -q
-%patch0 -p1
+%patch -P0 -p1
 
 %{__rm} -r glue.egg-info
 
